@@ -20,9 +20,8 @@ This guide walks you through setting up and customizing [**Oh My Posh**](https:/
 
 Make sure you have the following installed:
   
-- **Git:** For cloning the repository (optional, but recommended).
-- [Cascadia Code](https://github.com/microsoft/cascadia-code/releases) (for icon support)
-- [Others Nerd Fonts](https://www.nerdfonts.com/font-downloads)
+* **Git:** For cloning the repository (optional, but recommended). 
+* **Cascadia Code** ([https://github.com/microsoft/cascadia-code/releases](https://github.com/microsoft/cascadia-code/releases)): A fantastic font that complements Oh My Posh beautifully and provides icon support. For others **Nerd Fonts** see: https://github.com/ryanoasis/nerd-fonts
 
 
 ## Installation
